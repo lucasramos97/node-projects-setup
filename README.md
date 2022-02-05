@@ -86,7 +86,8 @@ export default {<br/>
 
 ### .gitignore
 node_modules<br/>
-dist
+dist<br/>
+.env
 
 ### src/index.ts
 import app from './app';<br/><br/>
